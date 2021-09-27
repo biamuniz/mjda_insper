@@ -1,6 +1,8 @@
 # Master em Jornalismo de Dados, Automação e Data Storytelling do Insper
 Repositório criado para centralizar todos os outros referentes ao Master em Jornalismo de Dados, Automação e Data Storytelling do Insper. Um "repositório de repositórios" :)
 
+<img align="center" src="https://www.acquadomini.com.br/imagens/clientes/cliente-09.png">
+
 ## Certificação: Jornalismo de Dados e Automação
 ### Pensamento computacional
 [Exercícios](https://github.com/biamuniz/mjda_insper_pcomputacional)
