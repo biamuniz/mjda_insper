@@ -13,7 +13,7 @@ Exercícios
 [Trabalho final](https://github.com/biamuniz/trabalhofinal_eda_mjda)
 
 ### Open Source Intelligence
-Exercícios
+[Exercícios e notebooks](https://github.com/biamuniz/mjda_insper_osint)
 
 [Trabalho final](https://github.com/biamuniz/trabalhofinal_osint)
 
