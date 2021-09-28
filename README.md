@@ -5,7 +5,7 @@ Repositório criado para centralizar todos os outros referentes ao Master em Jor
 
 ## Certificação: Jornalismo de Dados e Automação
 ### Pensamento computacional
-[Exercícios](https://github.com/biamuniz/mjda_insper_pcomputacional)
+[Exercícios](https://github.com/biamuniz/mjda_insper/tree/main/pensamento_computacional)
 
 Trabalho final (com a disciplina de Transparência, Reprodutibilidade e Uso Ético dos Dados)
 
@@ -15,7 +15,7 @@ Exercícios
 [Trabalho final](https://github.com/biamuniz/trabalhofinal_eda_mjda)
 
 ### Open Source Intelligence
-[Exercícios e notebooks](https://github.com/biamuniz/mjda_insper_osint)
+[Exercícios e notebooks](https://github.com/biamuniz/mjda_insper/tree/main/osint)
 
 [Trabalho final](https://github.com/biamuniz/trabalhofinal_osint)
 
