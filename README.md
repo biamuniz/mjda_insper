@@ -7,17 +7,17 @@ Repositório criado para centralizar todos os outros referentes ao Master em Jor
 ### Pensamento computacional
 [Exercícios](https://github.com/biamuniz/mjda_insper/tree/main/pensamento_computacional)
 
-[Trabalho final (com a disciplina de Transparência, Reprodutibilidade e Uso Ético dos Dados)](https://github.com/biamuniz/trabalhofinal_pensamentocomputacional)
+[Trabalho final (com a disciplina de Transparência, Reprodutibilidade e Uso Ético dos Dados)](https://github.com/biamuniz/trabalhofinal_pensamentocomputacional) _em andamento_
 
 ### Análise exploratória de dados
 Exercícios
 
-[Trabalho final](https://github.com/biamuniz/trabalhofinal_eda_mjda)
+[Trabalho final](https://github.com/biamuniz/trabalhofinal_eda_mjda) _em andamento_
 
 ### Open Source Intelligence
 [Exercícios e notebooks](https://github.com/biamuniz/mjda_insper/tree/main/osint)
 
-[Trabalho final](https://github.com/biamuniz/trabalhofinal_osint)
+[Trabalho final](https://github.com/biamuniz/trabalhofinal_osint) _em andamento_
 
 ### Transparência, Reprodutibilidade e Uso Ético dos Dados
 [Exercícios](https://github.com/biamuniz/mjda_insper_transparencia)
