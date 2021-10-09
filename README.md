@@ -12,7 +12,7 @@ Repositório criado para centralizar todos os outros referentes ao Master em Jor
 ### Análise exploratória de dados
 Exercícios
 
-[Trabalho final](https://github.com/biamuniz/trabalhofinal_eda_mjda) _em andamento_
+[Trabalho final](https://github.com/biamuniz/trabalhofinal_eda_mjda)
 
 ### Open Source Intelligence
 [Exercícios e notebooks](https://github.com/biamuniz/mjda_insper/tree/main/osint)
