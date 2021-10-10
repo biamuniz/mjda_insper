@@ -17,7 +17,7 @@ Exercícios
 ### Open Source Intelligence
 [Exercícios e notebooks](https://github.com/biamuniz/mjda_insper/tree/main/osint)
 
-[Trabalho final](https://github.com/biamuniz/trabalhofinal_osint) _em andamento_
+[Trabalho final](https://github.com/biamuniz/trabalhofinal_osint)
 
 ### Transparência, Reprodutibilidade e Uso Ético dos Dados
 [Exercícios](https://github.com/biamuniz/mjda_insper_transparencia)
