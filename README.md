@@ -1,4 +1,4 @@
-# Master em Jornalismo de Dados, Automação e Data Storytelling do Insper
+## Master em Jornalismo de Dados, Automação e Data Storytelling do Insper
 Repositório criado para centralizar todos os outros referentes ao Master em Jornalismo de Dados, Automação e Data Storytelling do Insper. Um "repositório de repositórios" :)
 
 <img align="center" src="https://pglaw.com.br/wp-content/uploads/2018/12/insper-cover.png">
