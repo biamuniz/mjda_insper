@@ -25,6 +25,7 @@ Exercícios
 ### Machine learning aplicado ao jornalismo
 *Em breve*
 ### Mineração e Análise de Dados, Redes, Textos e Imagens
-*Em breve*
+[Exercícios](https://github.com/biamuniz/mjda_insper/tree/main/mineracao)
+
 ### Métodos em inferência causal
 *Em breve*
