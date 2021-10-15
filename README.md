@@ -29,3 +29,6 @@ Exercícios
 
 ### Métodos em inferência causal
 *Em breve*
+
+### Algoritmos de automação
+*Em breve*
