@@ -10,8 +10,6 @@ Repositório criado para centralizar todos os outros referentes ao Master em Jor
 [Trabalho final (com a disciplina de Transparência, Reprodutibilidade e Uso Ético dos Dados)](https://github.com/biamuniz/trabalhofinal_pensamentocomputacional)
 
 ### Análise exploratória de dados
-Exercícios
-
 [Trabalho final](https://github.com/biamuniz/trabalhofinal_eda_mjda)
 
 ### Open Source Intelligence
@@ -23,12 +21,13 @@ Exercícios
 [Exercícios](https://github.com/biamuniz/mjda_insper_transparencia)
 
 ### Machine learning aplicado ao jornalismo
-*Em breve*
+[Exercícios](https://github.com/biamuniz/mjda_insper/tree/main/machine_learning)
+
 ### Mineração e Análise de Dados, Redes, Textos e Imagens
 [Exercícios](https://github.com/biamuniz/mjda_insper/tree/main/mineracao)
 
 ### Métodos em inferência causal
-*Em breve*
+[Exercícios](https://github.com/biamuniz/mjda_insper/tree/main/inferencia_causal)
 
 ### Algoritmos de automação
 *Em breve*
