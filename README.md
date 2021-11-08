@@ -25,6 +25,7 @@ Repositório criado para centralizar todos os outros referentes ao Master em Jor
 
 ### Mineração e Análise de Dados, Redes, Textos e Imagens
 [Exercícios](https://github.com/biamuniz/mjda_insper/tree/main/mineracao)
+[Trabalho final (em andamento)](https://github.com/biamuniz/mineracao_masterchefbrasil)
 
 ### Métodos em inferência causal
 [Exercícios](https://github.com/biamuniz/mjda_insper/tree/main/inferencia_causal)
