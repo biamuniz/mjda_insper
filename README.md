@@ -10,7 +10,7 @@ Repositório criado para centralizar todos os outros referentes ao Master em Jor
 [Trabalho final (com a disciplina de Transparência, Reprodutibilidade e Uso Ético dos Dados)](https://github.com/biamuniz/trabalhofinal_pensamentocomputacional)
 
 ### Análise exploratória de dados
-[Trabalho final](https://github.com/biamuniz/trabalhofinal_eda_mjda)
+[Trabalho final](https://github.com/biamuniz/analise-microdados-olimpiadas)
 
 ### Open Source Intelligence
 [Exercícios e notebooks](https://github.com/biamuniz/mjda_insper/tree/main/osint)
@@ -23,12 +23,14 @@ Repositório criado para centralizar todos os outros referentes ao Master em Jor
 ### Machine learning aplicado ao jornalismo
 [Exercícios](https://github.com/biamuniz/mjda_insper/tree/main/machine_learning)
 
+[Trabalho final](https://github.com/biamuniz/cluster-deputados)
+
 ### Mineração e Análise de Dados, Redes, Textos e Imagens
 [Exercícios](https://github.com/biamuniz/mjda_insper/tree/main/mineracao)
-[Trabalho final (em andamento)](https://github.com/biamuniz/mineracao_masterchefbrasil)
 
 ### Métodos em inferência causal
 [Exercícios](https://github.com/biamuniz/mjda_insper/tree/main/inferencia_causal)
+[Trabalho final](https://github.com/biamuniz/doacoes-cidades-barragens)
 
 ### Algoritmos de automação
 *Em breve*
