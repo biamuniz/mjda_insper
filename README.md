@@ -30,6 +30,7 @@ Repositório criado para centralizar todos os outros referentes ao Master em Jor
 
 ### Métodos em inferência causal
 [Exercícios](https://github.com/biamuniz/mjda_insper/tree/main/inferencia_causal)
+
 [Trabalho final](https://github.com/biamuniz/doacoes-cidades-barragens)
 
 ### Algoritmos de automação
