@@ -34,4 +34,4 @@ Repositório criado para centralizar todos os outros referentes ao Master em Jor
 [Trabalho final](https://github.com/biamuniz/doacoes-cidades-barragens)
 
 ### Algoritmos de automação
-*Em breve*
+[Trabalho final](https://github.com/biamuniz/nftnews)
