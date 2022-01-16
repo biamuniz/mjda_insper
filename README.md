@@ -37,5 +37,6 @@ Repositório criado para centralizar todos os outros referentes ao Master em Jor
 [Trabalho final](https://github.com/biamuniz/nftnews)
 
 ### Projeto final
-[Repositório](https://github.com/biamuniz/mjda_insper/tree/main/fiscalizando-o-ibama)
+[Repositório](https://github.com/biamuniz/fiscalizando-o-ibama)
+
 [Produto](https://fiscalizandoibama.herokuapp.com/)
