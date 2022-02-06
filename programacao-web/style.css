@@ -1,0 +1,52 @@
+body{
+    background-color: white;
+    text-align: center;
+  }
+
+  .colunas{
+    background-color: rgb(211, 211, 211);
+    width: 600px;
+    height: 400px;
+    padding: 20px;
+    margin:auto;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+  }
+
+  .coluna{
+    height: 100%;
+    width: calc((100% - 15px)/5);
+    padding: 10px;
+    color: #fff;
+    margin-left: 8px;
+    font-family: montserrat;
+    text-align: center;
+    font-size: medium;
+  }
+
+  .coluna.eua{
+    height: 80%;
+    background-color: darkblue;
+    
+  }
+  .coluna.china{
+    height: 58.79%;
+    background-color: orange;
+
+  }
+  .coluna.japao{
+    height: 17.78%;
+    background-color: firebrick;
+
+  }
+  .coluna.alemanha{
+    height: 14.75%;
+    background-color: darkgreen;
+
+  }
+  .coluna.reino-unido{
+    height: 10.84%;
+    background-color: lightcoral;
+
+  }
