@@ -21,6 +21,6 @@ Repositório criado para centralizar todos os outros referentes ao Master em Jor
 
 | Disciplina  |   Exercícios e notebooks  |  Trabalho  |
 | ------------------- | ------------------- | ------------------- |
-|  **Datavis Studio I** |  Exercícios |  Trabalho final |
+|  **Datavis Studio I** |  [Exercícios](https://github.com/biamuniz/mjda_insper/tree/main/datavis-1) |  Trabalho final |
 |  **Design da Informação** |  Exercícios |  Trabalho final |
 |  **Programação Web** |  Exercícios |  Trabalho final |
