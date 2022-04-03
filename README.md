@@ -23,4 +23,4 @@ Repositório criado para centralizar todos os outros referentes ao Master em Jor
 | ------------------- | ------------------- | ------------------- |
 |  **Datavis Studio I** |  [Exercícios](https://github.com/biamuniz/mjda_insper/tree/main/datavis-1) |  Trabalho final |
 |  **Design da Informação** |  Exercícios |  Trabalho final |
-|  **Programação Web** |  [Exercícios](https://biamuniz.github.io/programacao-web/) |  Trabalho final |
+|  **Programação Web** |  [Exercícios](https://biamuniz.github.io/programacao-web/) |  [Trabalho final](https://github.com/biamuniz/mjda_insper/tree/main/datavis-1/Mentindo_e_desmentindo_com_graficos) |
