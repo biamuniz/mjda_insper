@@ -1,4 +1,4 @@
-## Mentindo (e desmentindo) com gráficos
+# Mentindo (e desmentindo) com gráficos
 Trabalho final da disciplina Datavis I com o objetivo de identificar técnicas de manipulação em visualizações de dados e saber como evitá-las.
 
 ### Mensagem enganosa: Anitta não "envolveu" os brasileiros.
