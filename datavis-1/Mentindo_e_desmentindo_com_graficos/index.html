@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Mentindo (e desmentindo) com gráficos</title>
+        <link rel="icon" href="sweat.ico" type="image/x-icon" />
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
+        <link rel="stylesheet" href="style.css">
+    </head>
+
+
+    <body class="light-theme">
+        <div class="header">
+            <h1 class="headline text-center">Mentindo (e desmentindo) com gráficos</h1>
+            <h2 class="subhead text-center">Trabalho final da disciplina Datavis I com o objetivo de identificar técnicas de manipulação em visualizações de dados e saber como evitá-las.</h2>
+            <p class="byline text-center">Por Bianca Muniz</p>
+            <p class="date text-center">3 de abril de 2022</p>
+        </div>
+        <br>
+        <div class="story-body">
+            <h3><center>Mensagem enganosa: Anitta não "envolveu" os brasileiros.</center></h3>
+        </div>
+        <div class="chart-section2">
+            <img class="img0" src="https://c.tenor.com/EEazF-9OR0IAAAAC/anitta-anittapress.gif" width="1000" height="700">
+        </div>
+        <br>
+        <div class="story-body">
+            <p class="body-text">A partir dos dados do Spotify Charts, produzi um gráfico para passar a mensagem de que a cantora Anitta, apesar do sucesso mundial recente e chegada ao #1 do Spotify Global, não fez tanto sucesso entre os brasileiros.</p>
+        </div>
+        <br>
+        <div class="chart-section2">
+            <div class="flourish-embed" data-src="story/1633184"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+        </div>
+        <br>
+        <div class="story-body">
+            <h3>Há algo estranho no gráfico...</h3>
+            <p class="body-text">Não é um gráfico <i>errado</i>, mas ele tem uma série de decisões visuais que torna a sua mensagem desonesta:</p>
+            <li>
+                <b>O eixo não começa do zero.</b> Isso passa uma ideia de maior distância entre os limites superiores das colunas (veja no link uma versão do gráfico enganoso, mas com um eixo Y que começa no zero);
+            </li>
+            <li>
+                <b>Textos tendenciosos:</b> destaque para o "queridinha" e "não envolveu", descrições subjetivas que não refletem honestamente os dados;
+            </li>
+            <li>
+                <b>Não há informações metodológicas:</b> apesar de não ser uma manipulação, entender como foi feita a análise e a origem dos dados é importante para compreender o gráfico. Uma informação não colocada é que foi incluída as músicas próprias de cada artista (por exemplo, "Envolver" e "Boy's don't cry", da Anitta) e participações em faixas de outro artista (como a música "No chão novinha", do Pedro Sampaio ft. Anitta);
+            </li>
+            <li><b>Cor:</b> vermelho é comumente usado como negação, parada (como em um semáforo), alerta. Diferentemente do verde, que passa ideia de aceitação. Colocar a cantora Anitta em vermelho destaca como uma peça fora do top5.
+            </li>
+            <br>
+            <h3>Abaixo, uma versão mais honesta do gráfico:</h3>
+        </div>
+        <br>
+        <!--Drinking Fountains Data-->
+        <div class="chart-section">
+            <div class="flourish-embed flourish-chart" data-src="visualisation/9245752"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+        </div>
+        <br>
+        <div class="story-body">
+            <h3>Bônus: Gráfico honesto, mas um pouco tendencioso:</h3>
+            <p class="body-text">Pensando em uma mensagem mais guiada para o leitor, seria interessante destacar a cantora Anitta e mostrar seu crescente sucesso no Spotify, decorrente da música envolver. Abaixo, uma sugestão de visualização, com um pop-up que adiciona informações sobre o quanto a música "Envolver" representa nos streams da cantora:</p>
+        </div>
+        <br>
+        <div class="chart-section">
+            <div class="flourish-embed" data-src="story/1633189"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+        </div>
+        <br>
+        <div class="story-body">
+            <h3>Ferramentas utilizadas</h3>
+            <p class="body-text">A coleta dos dados foi feita usando o famoso "CTRL+C e CTRL+V" dos dados do Spotify Charts em uma planilha do Google Sheets. Para a construção dos gráficos usei o flourish e o Figma (prototipagem).</p>
+        </div>
+
+    </body>
+
+
+    <footer>
+        <p></p>
+        <div class="footer findcode text-center">
+            <p>Link do repositório deste projeto no <a href=https://github.com/biamuniz/mjda_insper/tree/main/datavis-1/Mentindo_e_desmentindo_com_graficos">GitHub</a>.</p>
+        </div> 
+
+    </footer>
