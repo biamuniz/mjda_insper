@@ -21,6 +21,9 @@ Repositório criado para centralizar todos os outros referentes ao Master em Jor
 
 | Disciplina  |   Exercícios e notebooks  |  Trabalho  |
 | ------------------- | ------------------- | ------------------- |
-|  **Datavis Studio I** |  [Exercícios](https://github.com/biamuniz/mjda_insper/tree/main/datavis-1) |  Trabalho final |
+|  **Datavis Studio I** |  [Exercícios](https://github.com/biamuniz/mjda_insper/tree/main/datavis-1) |  [Trabalho final](https://github.com/biamuniz/mjda_insper/tree/main/datavis-1/Mentindo_e_desmentindo_com_graficos) |
 |  **Design da Informação** |  Exercícios |  Trabalho final |
-|  **Programação Web** |  [Exercícios](https://biamuniz.github.io/programacao-web/) |  [Trabalho final](https://github.com/biamuniz/mjda_insper/tree/main/datavis-1/Mentindo_e_desmentindo_com_graficos) |
+|  **Programação Web** |  [Exercícios](https://biamuniz.github.io/programacao-web/) |  Trabalho final |
+|  **Datavis Studio II e Desenvolvimento de Aplicativos Web** |  [Repositório](https://github.com/biamuniz/mini-projetos) | [Mini-projetos](https://biamuniz.github.io/mini-projetos/)
+|  **Narrativas Imersivas e Motion Design** |  [Exercícios]() |  [Trabalho final]() |
+|  **Projeto Final** |  [Repositório]() |  [Produto]() |
